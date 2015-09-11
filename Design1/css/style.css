@@ -466,7 +466,7 @@ section,
 }
 
 .page-section {
-    padding: 75px 0;
+    padding: 10px 0;
     display: block;
     overflow: hidden;
     position: relative;
@@ -4837,16 +4837,16 @@ a:hover i.bg-color {
 }
 
 .list-group-item:before {
-    content: "\f105";
+    /*content: "\f105";*/
     display: block;
     font-family: FontAwesome;
     left: 0;
     position: absolute;
-    top: 5px;
+    /*top: 5px;*/
 }
 
 .list-border .list-group-item {
-    padding: 10px 30px;
+    padding: 5px 30px;
 }
 
 .list-border .list-group-item:before {
@@ -5872,7 +5872,7 @@ ul.tags li {
 }
 
 .book-block ul.book-description > li i {
-    color: #388E3C;
+    color: #1B5E20;
     font-size: 30px;
     position: absolute;
     left: 0;
@@ -5941,7 +5941,7 @@ ul.tags li {
     border: 0 none;
     border-radius: 3px;
     box-shadow: none;
-    color: #333;
+    color: #4CAF50;
     filter: none;
     line-height: 22px;
     outline: medium none;

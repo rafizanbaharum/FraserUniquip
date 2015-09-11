@@ -235,7 +235,7 @@ li.mega-menu{
 	padding-right:5px;
 }
 .top-contact{
-	float: left;
+	float: right;
 	text-align: center;
 }
 .top-social-icon{
@@ -535,7 +535,8 @@ li.search-dropdown a {
 	vertical-align: middle;
 }
 .navbar-brand > img{
-	width: 130px;
+	width: 260px;
+	height: 40px;
 }
 .transparent-header .navbar-brand.sticky-logo{
 	display:none;

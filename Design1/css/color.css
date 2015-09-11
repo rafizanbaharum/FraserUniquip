@@ -53,7 +53,7 @@ a.read-more,
 .btn-transparent-white:hover,
 .btn-transparent-black:hover
 {
-	color: #388E3C;
+	color: #1B5E20;
 }
 
 
@@ -121,15 +121,15 @@ div.count-number:before,
 .page-wrap .section-title,
 .request-quote .container
 {
-	border-color: #388E3C;
+	border-color: #1B5E20;
 }
 
 .bottom-arrow:before{
-	border-top-color: #388E3C;
+	border-top-color: #1B5E20;
 }
 .rightGrip, 
 .leftGrip{
-	border-bottom: 10px solid #388E3C !important;
+	border-bottom: 10px solid #1B5E20 !important;
 }
 
 
@@ -145,13 +145,13 @@ div.count-number:before,
  background-color: rgba(76,175,80,.4) !important;
 }
 ::-moz-selection {
-    background: #388E3C;
+    background: #1B5E20;
     color: #000000;
     text-shadow: none;
 }
 
 ::selection {
-    background: #388E3C;
+    background: #1B5E20;
     color: #a4003a;
     text-shadow: none;
 }
